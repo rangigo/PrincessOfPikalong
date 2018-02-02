@@ -38,6 +38,6 @@ b) Game art and sprites:
 	- Legend of Zelda franchise
 c) Engine: Unity 2D
 
-Download link: http://bit.ly/2nr6tYP
+Download link: https://drive.google.com/file/d/0By6up9ObxFKLWGd4Z2FqbGtKSHc
 
 	
