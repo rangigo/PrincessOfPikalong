@@ -1,5 +1,7 @@
 # PrincessOfPikalong
+
 <img src='./demo.gif'>
+
 ## Introduction: 
 	
 "Princess of Pikalong" is a 2D Japan-style role-playing puzzle game powered by Unity and made for Windows PC. 
