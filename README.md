@@ -1,6 +1,6 @@
 # PrincessOfPikalong
 
-<img src='./demo.gif'>
+<img src='./demo.gif' width="600">
 
 ## Introduction: 
 	
