@@ -1,6 +1,6 @@
 # PrincessOfPikalong
 
-<img src='./demo.gif' width="600">
+<img src='https://giant.gfycat.com/DevotedDemandingAmericancrayfish.gif' width="600">
 
 ## Introduction: 
 	
