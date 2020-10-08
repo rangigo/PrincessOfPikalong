@@ -1,7 +1,5 @@
 # PrincessOfPikalong
 
-<img src='https://giant.gfycat.com/DevotedDemandingAmericancrayfish.gif' width="600">
-
 ## Introduction: 
 	
 "Princess of Pikalong" is a 2D Japan-style role-playing puzzle game powered by Unity and made for Windows PC. 
